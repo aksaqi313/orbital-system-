@@ -23,11 +23,17 @@ Check out the interactive web-based simulations included in this repository:
 
 ```
 orbital system/
-├── body.py              # CelestialBody class
-├── orbital_system.py    # Main OrbitalSystem simulation class
-├── visualizer.py        # Visualization tools
-├── examples.py          # Example scenarios
-└── README.md            # This file
+├── alarm_system/        # Web-based interactive demos
+│   ├── index.html       # Dashboard (Datalogger version)
+│   └── live_demo.html   # Standalone enhanced demo (Recommended)
+├── app.py               # Main Application Entry Point (Start here)
+├── body.py              # CelestialBody physics class
+├── orbital_system.py    # Simulation engine
+├── visualizer.py        # 2D plotting tools
+├── explorer_3d.py       # Interactive 3D visualization
+├── config.py            # Simulation presets and constants
+├── planets_data.py      # Solar system data
+└── README.md            # Documentation
 ```
 
 ## Installation
