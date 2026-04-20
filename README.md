@@ -2,7 +2,16 @@
 
 A Python-based orbital mechanics simulator that models gravitational interactions between celestial bodies.
 
+## 🚀 Interactive Live Demos
+
+Check out the interactive web-based simulations included in this repository:
+
+*   **[Alarm Trigger System - Premium Dashboard](alarm_system/live_demo.html)**: A high-fidelity, interactive control panel with glassmorphism and real-time state simulation.
+
+---
+
 ## Features
+
 
 - **Physics Simulation**: Uses Newton's law of universal gravitation
 - **Multiple Scenarios**: Earth-Moon, Solar System, Binary Stars, Three-Body System
