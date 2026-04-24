@@ -2,13 +2,6 @@
 
 A Python-based orbital mechanics simulator that models gravitational interactions between celestial bodies.
 
-## 🚀 Interactive Live Demos
-
-Check out the interactive web-based simulations included in this repository:
-
-*   **[Alarm Trigger System - Premium Dashboard](alarm_system/live_demo.html)**: A high-fidelity, interactive control panel with glassmorphism and real-time state simulation.
-
----
 
 ## Features
 
@@ -21,11 +14,6 @@ Check out the interactive web-based simulations included in this repository:
 
 ## Project Structure
 
-```
-orbital system/
-├── alarm_system/        # Web-based interactive demos
-│   ├── index.html       # Dashboard (Datalogger version)
-│   └── live_demo.html   # Standalone enhanced demo (Recommended)
 ├── app.py               # Main Application Entry Point (Start here)
 ├── body.py              # CelestialBody physics class
 ├── orbital_system.py    # Simulation engine
